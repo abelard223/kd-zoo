@@ -1,0 +1,1 @@
+python train.py --model=resnet18 --T=2
